@@ -1,2 +1,2 @@
-# task1_flutter
+# Musicano
 a basic music player and video player
